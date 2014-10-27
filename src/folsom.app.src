@@ -9,8 +9,7 @@
   {modules, []},
   {applications, [
                   kernel,
-                  stdlib,
-                  bear
+                  stdlib
                  ]},
   {env, []},
   {mod, {folsom, []}}
